@@ -20,8 +20,8 @@
  <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"> <img src="https://laravel-livewire.com/img/underwater_jelly.svg" alt="livewire" width="40" height="40"/> </a>
  <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" alt="livewire" width="40" height="40"/> </a></p>
 
-<p><img width='100%' src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsarkaw&show_icons=true&locale=en&layout=compact" alt="mrsarkaw" /></p>
+<p><img width='100%' src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsarkaw&show_icons=true&locale=en&theme=radical" alt="mrsarkaw" /></p>
 
 <p>&nbsp;<img width='100%' src="https://github-readme-stats.vercel.app/api?username=mrsarkaw&show_icons=true&locale=en" alt="mrsarkaw" /></p>
 
-<p><img width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=mrsarkaw&" alt="mrsarkaw" /></p>
+<!-- <p><img width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=mrsarkaw&" alt="mrsarkaw" /></p> -->

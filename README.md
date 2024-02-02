@@ -1,4 +1,5 @@
-  <a href="https://sarkaw.com"><img src="https://sarkaw.com/main.png" height="auto" width="100%" style="border-radius:50%"></a>
+<a href="https://sarkaw.com"><img src="https://sarkaw.com/main.png" height="auto" width="100%" style="border-radius:50%"></a>
+
 <div class="md:min-h-screen mt-20" id="about"><div class="md:flex items-center space-x-3 mx-auto"><img src="/sarkaw.jpeg" class="rounded-full mx-auto md:mx-0 w-24" alt=""><p class="text-white text-justify bg-white"> Greetings! I'm Sarkaw Salar, a seasoned freelance developer with nearly 6 years of experience. Throughout my journey, I've had the pleasure of collaborating with exceptional individuals and working remotely for various companies. My expertise lies in developing systems, mobile apps, and websites, ensuring top-notch solutions for all my clients.</p></div><pre class="whitespace-pre bg-white relative p-2 mt-4 rounded-lg text-white/20 leading-8 text-xs overflow-x-scroll md:overflow-x-none md:text-xl">    <span class="text-blue-500">class</span> <span class="text-yellow-400">SarkawSalar</span> <span class="text-white">{</span>
     · · <span class="text-blue-500">constructor()</span>  <span class="text-white">{</span>
     · · · · <span class="text-red-500">this</span><span class="text-white">.</span><span class="text-white">name</span> <span class="text-white">=</span> <span class="text-green-500">'Sarkaw Salar'</span>
@@ -8,9 +9,9 @@
     · ·  <span class="text-white">}</span>
     · · <span class="text-yellow-400">workExperience()</span>  <span class="text-white">{</span>
     · · · · <span class="text-blue-500">return</span>  <span class="text-white">[</span>
-    · · · · · · <span class="text-white">{</span> <span class="text-red-500">'2023-now'</span><span class="text-white">:</span> <span class="text-green-500">'Memeber group of IT Group Solutions as Full Stack Developer'</span><span class="text-white"> </span> <span class="text-white">},</span>
+    · · · · · · <span class="text-white">{</span> <span class="text-red-500">'2023-now'</span><span class="text-white">:</span> <span class="text-green-500">'Member group of IT Group Solutions as Full Stack Developer'</span><span class="text-white"> </span> <span class="text-white">},</span>
     · · · · · · <span class="text-white">{</span> <span class="text-red-500">'2022.5-2022.10'</span><span class="text-white">:</span> <span class="text-green-500">'Software Developer at peshawa Group'</span><span class="text-white"> </span> <span class="text-white">},</span>
-    · · · · · · <span class="text-white">{</span> <span class="text-red-500">'2019-2022'</span><span class="text-white">:</span> <span class="text-green-500">'Memeber group of Scorpion Shield as Full Stack Developer'</span><span class="text-white"> </span> <span class="text-white">},</span>
+    · · · · · · <span class="text-white">{</span> <span class="text-red-500">'2019-2022'</span><span class="text-white">:</span> <span class="text-green-500">'Member group of Scorpion Shield as Full Stack Developer'</span><span class="text-white"> </span> <span class="text-white">},</span>
     · · · · · · <span class="text-white">{</span> <span class="text-red-500">'2017-now'</span><span class="text-white">:</span> <span class="text-green-500">'Full-Stack Developer as Freelancer'</span><span class="text-white"> </span> <span class="text-white">}</span>
     · · · ·  <span class="text-white">];</span>
     · · <span class="text-white">}</span>
@@ -29,4 +30,3 @@
     <span class="relative">. <span class="text-white">}</span>  <div class="w-[3px] cursor h-4 md:w-[4px] bg-white md:h-6 absolute top-0 left-[25px] md:left-[45px]"></div></span>
     // "Code is life; it brings ideas to reality, empowers innovation, and opens endless possibilities."
     </pre></div>
-

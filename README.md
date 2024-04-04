@@ -5,7 +5,7 @@
     · · · · <span class="text-red-500">this</span><span class="text-white">.</span><span class="text-white">name</span> <span class="text-white">=</span> <span class="text-green-500">'Sarkaw Salar'</span>
     · · · · <span class="text-red-500">this</span><span class="text-white">.</span><span class="text-white">dayOfBirthTimestamp</span> <span class="text-white">=</span> <span class="text-green-500">942969600</span>
     · · · · <span class="text-red-500">this</span><span class="text-white">.</span><span class="text-white">email</span> <span class="text-white">=</span> <span class="text-green-500">'sarkaw.salar55@gmail.com'</span>
-    · · · · <span class="text-red-500">this</span><span class="text-white">.</span><span class="text-white">phone_number</span> <span class="text-white">=</span> <span class="text-green-500">'+9647501262833'</span>
+    · · · · <span class="text-red-500">this</span><span class="text-white">.</span><span class="text-white">phone_number</span> <span class="text-white">=</span> <span class="text-green-500">'+9647701950747'</span>
     · ·  <span class="text-white">}</span>
     · · <span class="text-yellow-400">workExperience()</span>  <span class="text-white">{</span>
     · · · · <span class="text-blue-500">return</span>  <span class="text-white">[</span>

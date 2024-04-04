@@ -9,7 +9,8 @@
     · ·  <span class="text-white">}</span>
     · · <span class="text-yellow-400">workExperience()</span>  <span class="text-white">{</span>
     · · · · <span class="text-blue-500">return</span>  <span class="text-white">[</span>
-    · · · · · · <span class="text-white">{</span> <span class="text-red-500">'2023-now'</span><span class="text-white">:</span> <span class="text-green-500">'Member group of IT Group Solutions as Full Stack Developer'</span><span class="text-white"> </span> <span class="text-white">},</span>
+    · · · · · · <span class="text-white">{</span> <span class="text-red-500">'2023/11-now'</span><span class="text-white">:</span> <span class="text-green-500">'Full-stack Developer at karda tech'</span><span class="text-white"> </span> <span class="text-white">},</span>
+    · · · · · · <span class="text-white">{</span> <span class="text-red-500">'2023-2023/10'</span><span class="text-white">:</span> <span class="text-green-500">'Member group of IT Group Solutions as Full Stack Developer'</span><span class="text-white"> </span> <span class="text-white">},</span>
     · · · · · · <span class="text-white">{</span> <span class="text-red-500">'2022.5-2022.10'</span><span class="text-white">:</span> <span class="text-green-500">'Software Developer at peshawa Group'</span><span class="text-white"> </span> <span class="text-white">},</span>
     · · · · · · <span class="text-white">{</span> <span class="text-red-500">'2019-2022'</span><span class="text-white">:</span> <span class="text-green-500">'Member group of Scorpion Shield as Full Stack Developer'</span><span class="text-white"> </span> <span class="text-white">},</span>
     · · · · · · <span class="text-white">{</span> <span class="text-red-500">'2017-now'</span><span class="text-white">:</span> <span class="text-green-500">'Full-Stack Developer as Freelancer'</span><span class="text-white"> </span> <span class="text-white">}</span>
